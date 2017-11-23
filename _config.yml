@@ -1,10 +1,10 @@
 # Site settings
-title: lcyluo Blog
-SEOTitle: 罗欢的博客 | lcyluo Blog
+title: Lcy Blog
+SEOTitle: Lcy的博客 | Lcy Blog
 header-img: img/home-bg.jpg
 email: lcyzxin@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "关于Android与Python、程序设计与艺术探索 | 罗欢，Android & Python Lover，Software Engineer | 这里是 罗欢 的个人博客，与你一起发现更大的世界。"
+keyword: "罗欢, Lcy罗欢, Lcy, 罗欢的博客, Lcy Blog, 博客, 个人网站, 互联网, Android, Python"
 url: "https://lcyluo.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
