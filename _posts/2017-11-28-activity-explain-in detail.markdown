@@ -4,7 +4,7 @@ title:      "Activity详解"
 subtitle:   ""
 date:       2017-11-28 12:00:00
 author:     "lcy"
-header-img: "img/about-bg-walle"
+header-img: "img/home-bg-art"
 ---
 
 # Activity详解
