@@ -20,7 +20,7 @@ header-img: "img/home-bg-art.jpg"
 * killed：activity已经被系统回收掉了，就会处于killed这个状态
 
 #### 2. activity生命周期分析
-![](https://imgsa.baidu.com/exp/w=480/sign=fc075ffcaeaf2eddd4f148e1bd110102/5fdf8db1cb134954832dc99e544e9258d1094a1c.jpg)
+![](/img/in-post/activity_life_cycle.jpg)
 
 * activity启动->onCreate()->onStart()->onResume()
 
